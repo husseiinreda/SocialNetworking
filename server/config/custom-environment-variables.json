@@ -1,0 +1,4 @@
+{
+    "dbpass":"dbPassword",
+    "Jwt":"JwtPrivateKey"
+}
